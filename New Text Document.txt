@@ -2,3 +2,6 @@ Duzenlendi
 
 Tr karakter  asdasd asd
 AVCI nazif
+
+
+server i7
